@@ -1,5 +1,5 @@
-import { Text } from "react-native";
 import { useSelector } from "react-redux";
+import { Text } from "react-native";
 import { StyleSheet, ScrollView, SafeAreaView } from "react-native";
 
 const Untitled3 = () => {
